@@ -24,8 +24,6 @@
   </div>
 </div>
 
----
-
 <div align="center">
   ### 📞 Contact
   <p>
