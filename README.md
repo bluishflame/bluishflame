@@ -24,10 +24,9 @@
   </div>
 </div>
 
-<br />
+---
 
 <div align="center">
-  #
   ### 📞 Contact
   <p>
     <a href="mailto:osjkate611@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
