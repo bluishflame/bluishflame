@@ -2,7 +2,7 @@
   <h3> 👻 Hi! I'm Bae Jeong-Yeon </h3>
   
   #
-  ### 📚 About Me
+  ### 👻 Skills
   <p>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> &nbsp 
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp
@@ -18,14 +18,11 @@
 </div>
 
 </br>
-</br>
-</br>
 
 <div align="center">
 
   #
-  ### 📚 State
-    <p>
+  ### 👻 State
   <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjinueng&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=bluishflame&show_icons=true&theme=transparent&hide="/>
