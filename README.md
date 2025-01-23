@@ -16,15 +16,7 @@
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
   </p>
   
-  #
-  ### 📞 Contact</b></h3>
-  <p>
-    <a href="mailto:osjkate611@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
-    <a href="https://www.linkedin.com/in/osjkate611/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
-    <a href="https://www.instagram.com/_numbereal?igsh=MTh3dHV0OGg5eGVzcQ==/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
-    <a href="https://littlebitawesome.tistory.com/"><img src="https://img.shields.io/badge/Tec_Blog-7A86B6?style=flat-square&logo=Tistory&logoColor=white&link=https://littlebitawesome.tistory.com//"></a>&nbsp
-  </p>
-</div>
+
 
 
 <div align="center">
@@ -39,13 +31,20 @@
 </div>
 </div>
 
- ---
-
 <br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjinueng&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
 
 
+  #
+  ### 📞 Contact</b></h3>
+  <p>
+    <a href="mailto:osjkate611@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+    <a href="https://www.linkedin.com/in/osjkate611/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
+    <a href="https://www.instagram.com/_numbereal?igsh=MTh3dHV0OGg5eGVzcQ==/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
+    <a href="https://littlebitawesome.tistory.com/"><img src="https://img.shields.io/badge/Tec_Blog-7A86B6?style=flat-square&logo=Tistory&logoColor=white&link=https://littlebitawesome.tistory.com//"></a>&nbsp
+  </p>
+</div>
 
 <br />
 <br />
