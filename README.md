@@ -29,13 +29,9 @@
 
 <div align="center">
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jjinueng&show_icons=true&theme=transparent&hide="/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bluishflame&show_icons=true&theme=transparent&hide="/>
 
 
- <a href="https://github.com/jjinueng"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?
-
-
-<div align="left">
   
 <br />
 <br />
