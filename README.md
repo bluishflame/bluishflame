@@ -26,7 +26,7 @@
   ### 👻 State
   </br>
   <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjinueng&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluishflame&theme=transparent&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=bluishflame&show_icons=true&theme=transparent&hide="/>
   </div>
 </div>
